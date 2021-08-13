@@ -1,7 +1,7 @@
 8- 👋 Hi, I’m @AleksandrPylin
 - 👀 I’m interested in ...Java script, GameDev,C++,C#
 - 🌱 I’m currently learning .. .         In intrnetional scool ItSte
-- 💞️ I’m looking to collaborate on ... 
+- I want to work on an interesting project to develop my skills
 - 📫 Send me leter on my mail: aleksandrnill@gmail.com
 
 <!---
